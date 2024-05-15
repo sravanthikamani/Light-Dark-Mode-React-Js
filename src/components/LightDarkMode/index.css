@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+  padding: 24px;
+  border-radius: 12px;
+}
+.dark-mode{
+  background-color:  #000000;
+  color:white;
+
+}
+.light-mode{
+  background-color: white;
+  color:#000000;
+}
